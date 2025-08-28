@@ -57,37 +57,6 @@ Arquitecto de Soluciones Cloud especializado en **migración de aplicaciones leg
 
 ---
 
-## 🏆 Experiencia Destacada
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔹 **Stefanini Group** (2022-Presente)
-*Senior Cloud Engineer & Full Stack Developer*
-
-✅ 25+ aplicaciones migradas a AWS  
-✅ 15+ apps full stack desarrolladas  
-✅ 40% reducción en costos cloud  
-✅ 80% mejora en deployment time  
-
-</td>
-<td width="50%">
-
-### 🔹 **Banco FICENSA** (2020-2022)
-*Senior Cloud Developer*
-
-✅ Sistemas ATM 10K+ transacciones/día  
-✅ 45+ aplicaciones web Java/Angular  
-✅ 45% optimización procesos bancarios  
-✅ CI/CD pipelines desde cero  
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🚀 Proyectos Destacados
 
 ### 🏗️ **Multi-Cloud Enterprise Migration**
